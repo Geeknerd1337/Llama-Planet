@@ -1,0 +1,2 @@
+text = "Inventory";
+isKeybind = true;

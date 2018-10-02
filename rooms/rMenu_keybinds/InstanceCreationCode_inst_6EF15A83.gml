@@ -1,0 +1,2 @@
+text = "Left";
+isKeybind = true;

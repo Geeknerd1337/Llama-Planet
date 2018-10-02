@@ -1,0 +1,2 @@
+text = "Crouch";
+isKeybind = true;

@@ -1,0 +1,11 @@
+rk_ = right key
+lk_ = left key
+dk_ = down key
+uk_ = up key
+jump_
+shoot_
+use_
+pause_button
+sprint_
+crouch_
+inventory_

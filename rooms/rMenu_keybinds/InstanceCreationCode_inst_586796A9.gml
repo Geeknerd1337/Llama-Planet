@@ -1,0 +1,2 @@
+text = "Jump";
+isKeybind = true;

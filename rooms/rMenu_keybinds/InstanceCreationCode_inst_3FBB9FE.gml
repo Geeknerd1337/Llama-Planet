@@ -1,0 +1,2 @@
+text = "Down";
+isKeybind = true;

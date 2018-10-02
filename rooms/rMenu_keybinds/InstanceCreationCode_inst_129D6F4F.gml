@@ -1,0 +1,2 @@
+text = "Shoot";
+isKeybind = true;
