@@ -44,3 +44,9 @@ GY = 900/window_get_height();
 for(var i = 0; i<1000; i++){
 achievement[i] = false;
 }
+
+
+
+globalvar skills;
+skills = ds_list_create();
+skills_init();

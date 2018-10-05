@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "0267505c-77d8-4c41-b5fc-42e4586a6e76",
+            "Value": {
+                "id": "42f3c718-4d08-472a-bf47-812f67dda41e",
+                "resourcePath": "objects\\oEnemyLlama\\oEnemyLlama.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "02b7d092-8e05-4c03-ae63-8eb2e7013f68",
             "Value": {
                 "id": "e28660a6-e603-45e6-b6f5-c0b93178d754",
@@ -527,6 +535,14 @@
             }
         },
         {
+            "Key": "2fe33d4c-c1c1-4c4a-babe-f0b225db77b6",
+            "Value": {
+                "id": "54212096-8640-42a8-a019-f1b01a6a3d42",
+                "resourcePath": "scripts\\skills_init\\skills_init.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "30802eff-e0a9-48fa-b608-d492c5ec76d8",
             "Value": {
                 "id": "4049ed1b-b861-49a0-8c0a-3a25281e8187",
@@ -540,6 +556,14 @@
                 "id": "80f66a75-cc75-490e-bc27-98e1810f6564",
                 "resourcePath": "shaders\\shScribble\\shScribble.yy",
                 "resourceType": "GMShader"
+            }
+        },
+        {
+            "Key": "310b3ea7-3918-4d2f-9b7c-cd058fe02e2f",
+            "Value": {
+                "id": "2a3e9022-ae1d-4793-90de-a16c84fb1a51",
+                "resourcePath": "scripts\\newSkill\\newSkill.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -563,6 +587,14 @@
             "Value": {
                 "id": "37faa306-a631-4a80-85e2-0a2bd8bdccec",
                 "resourcePath": "views\\363fa556-1b6b-440f-aefa-a5d76edcfa32.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "367232ad-e9fd-4c81-b514-be5000aabef1",
+            "Value": {
+                "id": "03d3c92b-7764-4cd0-9298-bb4f51f5d2f6",
+                "resourcePath": "views\\367232ad-e9fd-4c81-b514-be5000aabef1.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -659,6 +691,14 @@
             "Value": {
                 "id": "f3ad1145-605e-43bd-ae3d-dcebf2998fe4",
                 "resourcePath": "views\\3e387dbe-6464-40ea-8c3a-608747078a62.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3eb3db2e-1714-4879-a456-ebe83c6e2d59",
+            "Value": {
+                "id": "6f2f298a-6a7f-4a21-8de8-08af8c2a7996",
+                "resourcePath": "views\\3eb3db2e-1714-4879-a456-ebe83c6e2d59.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -908,6 +948,14 @@
                 "id": "5bcedcee-ae64-4468-b0d4-6006b1a6dfe3",
                 "resourcePath": "sprites\\sForgeDirt\\sForgeDirt.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5942915a-1559-4d57-8853-d779c2c9394f",
+            "Value": {
+                "id": "0cc0e362-f06e-48b0-9431-d588645dc3e9",
+                "resourcePath": "rooms\\rCombat\\rCombat.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -2479,6 +2527,14 @@
             }
         },
         {
+            "Key": "e7a710d7-16fb-4949-bb09-6860b1cdb4db",
+            "Value": {
+                "id": "3ff06520-7aad-41dc-9242-61b5a5e98d30",
+                "resourcePath": "objects\\oCombatController\\oCombatController.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e86a6dec-201c-4a0f-9149-155defbdd996",
             "Value": {
                 "id": "93cd4da9-f25e-4510-bd03-776370ec6831",
@@ -2773,7 +2829,9 @@
         "601d908a-2676-4fe0-8c28-702fa567bad6",
         "a7b0bcec-e3f0-4cc8-a0d1-000e29a5794a",
         "00fbc8f9-0e51-458c-8834-69a5cbc5e94b",
-        "4b34a333-e9ea-4f43-8365-272c5ab8ca50"
+        "4b34a333-e9ea-4f43-8365-272c5ab8ca50",
+        "310b3ea7-3918-4d2f-9b7c-cd058fe02e2f",
+        "2fe33d4c-c1c1-4c4a-babe-f0b225db77b6"
     ],
     "tutorial": ""
 }

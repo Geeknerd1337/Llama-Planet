@@ -1,28 +1,18 @@
 {
-    "id": "7f4499e2-e727-446a-bb61-330be57188b3",
+    "id": "e7a710d7-16fb-4949-bb09-6860b1cdb4db",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oLlama",
+    "name": "oCombatController",
     "eventList": [
         {
-            "id": "3d5806c4-0cc4-4cdd-9f06-6d730bd757fc",
+            "id": "4d7e86b5-257a-48e7-bc29-08622f07879b",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "7f4499e2-e727-446a-bb61-330be57188b3"
-        },
-        {
-            "id": "e47cae18-7f51-4580-81a3-151f1a3f7cf6",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "7f4499e2-e727-446a-bb61-330be57188b3"
+            "m_owner": "e7a710d7-16fb-4949-bb09-6860b1cdb4db"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "f2744161-17c6-425a-b3b7-be9a0fc1bf13",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

@@ -1,5 +1,8 @@
 
-if instance_exists(oPlayer) { global.focus = oPlayer }
+if instance_exists(oPlayer) { global.focus = oPlayer }else{
+x = room_width/2;
+y = room_height/2;
+}
 
 if instance_exists(global.focus) { mode = 2 target = global.focus }
 mouse_lerp_mag = 0;
