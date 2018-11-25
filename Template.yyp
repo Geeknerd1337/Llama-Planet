@@ -71,14 +71,6 @@
             }
         },
         {
-            "Key": "0267505c-77d8-4c41-b5fc-42e4586a6e76",
-            "Value": {
-                "id": "42f3c718-4d08-472a-bf47-812f67dda41e",
-                "resourcePath": "objects\\oEnemyLlama\\oEnemyLlama.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "02b7d092-8e05-4c03-ae63-8eb2e7013f68",
             "Value": {
                 "id": "e28660a6-e603-45e6-b6f5-c0b93178d754",
@@ -2412,6 +2404,14 @@
                 "id": "400faf8a-0443-4a37-8b9d-b8b6e83def13",
                 "resourcePath": "options\\ios\\options_ios.yy",
                 "resourceType": "GMiOSOptions"
+            }
+        },
+        {
+            "Key": "843389ba-4ba5-440c-b973-07a074185c74",
+            "Value": {
+                "id": "efc5f3fc-7e41-488c-ac27-5d9ad7bcbf1a",
+                "resourcePath": "views\\843389ba-4ba5-440c-b973-07a074185c74.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
