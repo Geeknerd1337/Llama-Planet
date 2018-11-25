@@ -1,9 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-if(combatSelected){
+draw_self();
+//draw_text(x,y + 20, wary);
 
-image_blend = c_green;
-	
-}else{
-image_blend = c_white;	
-}
+

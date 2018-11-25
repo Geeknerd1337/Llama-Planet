@@ -47,6 +47,28 @@ achievement[i] = false;
 
 
 
-globalvar skills;
-skills = ds_list_create();
-skills_init();
+
+
+
+
+globalvar tagList;
+tagList = ds_list_create();
+
+/*
+Note for Katilyn and also for myself:
+Populate the tags list with an array of strings that are names of tags.
+*/
+#region Initializing and adding tags
+add_tag("Base Tag","Just a basic tag for testing",-1,-1,0,0);
+#endregion
+
+
+globalvar skillList;
+skillList = ds_list_create();
+
+
+#region Initializing and adding skills
+add_skill("Base Skill","Just a basic skill for testing",10,undefined,1);
+add_skill("Base Skill 2","Just a basic skill for testing",5,undefined,1);
+add_skill("Base Skill 3","Just a basic skill for testing",6,undefined,1);
+#endregion

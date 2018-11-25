@@ -1,30 +1,29 @@
 /// @description Insert description here
 // You can write your code in this editor
+event_inherited();
+player = true;
 
-
-
-maxHp = 100;
-hp = 0;
-
-mood = "Fine";
-color = c_red;
-level = 1;
-name = "";
-
-
-image_speed = 0;
 image_xscale = -1;
 
+image_speed = 0;
+depth = -y;
 
-target = noone;
 
-hat = noone;
-equipment = noone;
+maxStamina = 100;
+stamina = maxStamina;
 
-skill[0] = skills[| 0];
-skill[1] = skills[| 0];
-skill[2] = skills[| 0];
 
-timer[0] = 0;
-reloading[0] = false;
 
+mySkills = ds_list_create();
+ds_list_add(mySkills,skillList[| 0]);
+ds_list_add(mySkills,skillList[| 1]);
+ds_list_add(mySkills,skillList[| 2]);
+
+
+
+madeOptions = false;
+
+selecting = false;
+index = 0;
+d = 0;
+wait = 0;

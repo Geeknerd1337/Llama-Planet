@@ -1,8 +1,8 @@
 {
-    "id": "2fe33d4c-c1c1-4c4a-babe-f0b225db77b6",
+    "id": "24572509-96a2-4ddb-bfca-1d95b154a61d",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "skills_init",
+    "name": "find_skill_by_name",
     "IsCompatibility": false,
     "IsDnD": false
 }

@@ -1,18 +1,28 @@
 {
-    "id": "e7a710d7-16fb-4949-bb09-6860b1cdb4db",
+    "id": "21f8f244-98e3-4954-822d-bfd3649dad26",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oCombatController",
+    "name": "oLifeForm",
     "eventList": [
         {
-            "id": "4d7e86b5-257a-48e7-bc29-08622f07879b",
+            "id": "739d3c57-03b3-4990-9fd1-bd998983411d",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "e7a710d7-16fb-4949-bb09-6860b1cdb4db"
+            "m_owner": "21f8f244-98e3-4954-822d-bfd3649dad26"
+        },
+        {
+            "id": "4f6ac599-f6d1-485a-8bd2-fbb923281a67",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "21f8f244-98e3-4954-822d-bfd3649dad26"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",

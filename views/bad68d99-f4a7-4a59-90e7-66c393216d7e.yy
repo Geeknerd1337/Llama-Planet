@@ -4,8 +4,7 @@
     "mvc": "1.1",
     "name": "bad68d99-f4a7-4a59-90e7-66c393216d7e",
     "children": [
-        "7f4499e2-e727-446a-bb61-330be57188b3",
-        "e7a710d7-16fb-4949-bb09-6860b1cdb4db"
+        "8f3af9e8-51f7-4f65-a602-bb4543207304"
     ],
     "filterType": "GMObject",
     "folderName": "Llama",

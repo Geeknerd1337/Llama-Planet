@@ -28,7 +28,7 @@ if mode = 1 {
 
 if mode = 2 {
 	if instance_exists(target) {
-		mouse_lerp_mag = .1;
+		mouse_lerp_mag = 0;
 		tarx = target.x
 		tary = target.y
 	} else {
